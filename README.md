@@ -1,7 +1,5 @@
 # Quantum-Resistant Secure Network Routing and Key Distribution System
-
-**Course:** CT-363 — Design and Analysis of Algorithms (Complex Engineering Problem / CEP)  
-**Department:** Computer Science and Information Systems, NED University of Engineering and Technology  
+  
 **Language:** C++17  
 **Build System:** CMake 3.20+  
 **IDE:** JetBrains CLion / GCC
